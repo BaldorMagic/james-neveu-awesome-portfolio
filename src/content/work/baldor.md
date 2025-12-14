@@ -7,15 +7,13 @@ description: |
   We designed and developed a seamingless interface with some interactivity and responsivness
 tags:
   - Design
-  - Dev
+  - Development
   - Nuxt
   - UX
   - Tailwind.css
 ---
 
 ## Full Stack Developer
-
-> Tell me and I forget. Teach me and I remember. Involve me and I learn.
 
 Build, style, and ship high-quality websites, design systems, mobile apps, and digital experiences for a diverse array of projects for clients. Provide leadership through close collaboration, knowledge shares, and spearheading the development of internal tools.
 
