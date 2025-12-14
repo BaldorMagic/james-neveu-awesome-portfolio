@@ -1,7 +1,7 @@
 ---
 title: Baldor
 publishDate: 2020-03-02 00:00:00
-img: /assets/baldor.jpg
+img: /assets/baldor.webp
 img_alt: Home page of the baldor project
 description: |
   We designed and developed a seamingless interface with some interactivity and responsivness
