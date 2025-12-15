@@ -28,8 +28,7 @@ The build in Icon component made us rethink how we should import icons in our pr
 - Tailwind.css
 - JavaScript
 - TypeScript
-- React
 - Vue
-- Node.JavaScript
+- Node.js
 - Contentful
 - WordPress
