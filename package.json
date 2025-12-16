@@ -2,6 +2,8 @@
   "name": "james-neveu-awesome-portfolio",
   "type": "module",
   "version": "0.0.1",
+  "license": "MIT",
+  "private": true,
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
@@ -10,6 +12,9 @@
   },
   "dependencies": {
     "@vercel/analytics": "^1.6.1",
-    "astro": "^5.16.5"
+    "astro": "^5.16.6"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
   }
 }
