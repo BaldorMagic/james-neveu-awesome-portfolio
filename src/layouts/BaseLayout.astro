@@ -16,6 +16,7 @@ const { title, description } = Astro.props;
 <html lang="en">
 	<head>
 		<MainHead title={title} description={description} />
+		<Analytics />
 	</head>
 	<body>
 		<div class="stack backgrounds">
@@ -119,6 +120,5 @@ const { title, description } = Astro.props;
 				}
 			}
 		</style>
-		<Analytics />
 	</body>
 </html>
